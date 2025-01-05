@@ -33,8 +33,9 @@ namespace Assignment_Session03
             #endregion
 
             #region Q4 - Write C# program that Extract a substring from a given string.
-            //بالاسم ده built in function  مش فاهم السؤال وعملت سيرش مفهمتش حاجه ومش متذكر اذا كانت البشمهندسه اديتنا 
-            //ف هحضره في الوورك شوب ان شاء الله
+            //string str = "mohamed ahmed";
+            //string result = str.Substring(7, 6);
+            //Console.WriteLine(result);
             #endregion
 
             #region Q5 - Write C# program that Assigning one value type variable to another and modifying the value of one variable and mention what will happen
@@ -93,19 +94,11 @@ namespace Assignment_Session03
             ///above 30 degrees is "Just Hot"
             ///anything else is "Just Good"
 
-            //Console.Write("please enter the temparature degree ");
-            //int.TryParse(Console.ReadLine(), out var temp);
-
-            //if (temp < 10)
-            //{
-            //    Console.WriteLine("too cold ");
-            //}
-            //else if (temp > 30)
-            //{
-            //    Console.WriteLine("too hot ");
-            //}
-            //else
-            //    Console.WriteLine("just good ");
+            //string result;
+            //Console.Write("please enter the temperature: ");
+            //float.TryParse(Console.ReadLine(), out float temperature);
+            //result = (temperature < 10) ? "Just cold" : (temperature > 30) ? "Just Hot" : "just good";
+            //Console.WriteLine(result);
 
             #endregion
 
